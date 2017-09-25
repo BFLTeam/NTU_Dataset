@@ -4,7 +4,7 @@ Here we share the NTU datasets to all the researchers who are working on biometr
 The datasets consists of the following sub-datasets:
 # 1. NTU Internet Image Set v1
 
-![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/15.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/29.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/38.jpg)
+![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/15.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/29.jpg)
 
 # 2. NTU Human Back Skin Dataset
 
@@ -12,7 +12,7 @@ The datasets consists of the following sub-datasets:
 
 # 3. NTU Human Chest Skin Dataset
 
-![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0174_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0181_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0191_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0193_02_01.jpg)
+![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0174_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0181_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0191_01_01.jpg)
 
 # 4. NTU Human Inner Forearm Skin Dataset
 
@@ -28,7 +28,7 @@ The datasets consists of the following sub-datasets:
 
 # 7. NTU Tattoo Dataset
 
-![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100004.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100005.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100017.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100021.jpg)
+![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100004.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100005.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100017.jpg)
 
 
 To acquire NTU Human Back/Chest/Inner Forearm/Inner Thigh/Tattoo datasets, please download and fill up the corresponding agreements, send the signed copy to xpxu@ntu.edu.sg with title "Application for NTU Dataset". A download link will be send back to you once after we receive your signed agreements.

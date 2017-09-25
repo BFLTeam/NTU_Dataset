@@ -32,4 +32,5 @@ The datasets consists of the following sub-datasets:
 
 
 To acquire NTU Human Back/Chest/Inner Forearm/Inner Thigh/Tattoo datasets, please download and fill up the corresponding agreements, send the signed copy to xpxu@ntu.edu.sg with title "Application for NTU Dataset". A download link will be send back to you once after we receive your signed agreements.
+
 To acquire NTU Internet Image Set v1 and NTU Lower Leg Skin Dataset, please send email to xpxu@ntu.edu.sg with title "Application for NTU Dataset". Please provide the following information in the mail: full name, position, organization, address and your contact email. A download link will be send back to you once after we receive your mail.

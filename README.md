@@ -18,7 +18,9 @@ Xiaojie Li and Adams Kong, “A Multi-model Restoration Algorithm for Recovering
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0182_02_02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0184_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0187_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0188_01_01.jpg)
 
 Human back skin dataset contains 699 back skin images collected in Biometrics and Forensics Lab, SCSE, NTU.
+
 Image number: 699 (52 random pose images and 647 standard pose images)
+
 Image type: jpg
 
 Please cite the following paper to use the dataset:
@@ -33,7 +35,9 @@ Please cite the following paper to use the dataset:
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0174_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0181_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0191_01_01.jpg)
 
 Human chest skin dataset contains 434 chest skin images collected in Biometrics and Forensics Lab, SCSE, NTU.
+
 Image number: 434
+
 Image type: jpg
 
 Please cite the following paper to use the dataset:

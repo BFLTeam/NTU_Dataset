@@ -44,29 +44,25 @@ Number of subjects: 479 (The left leg images were flipped and considered as righ
 Image type: color
 
 
-Please cite the following paper to use the dataset: (BibTex format)
+Please cite the following paper to use the dataset:
 
 Frodo Kin Sun Chan, Adams Wai Kin Kong, "A further study of low resolution androgenic hair patterns as a soft biometric trait", In Image and Vision Computing, 2017, ISSN 0262-8856
 
-@article{CHAN2017,
-title = "A further study of low resolution androgenic hair patterns as a soft biometric trait",
-journal = "Image and Vision Computing",
-year = "2017",
-issn = "0262-8856",
-doi = "https://doi.org/10.1016/j.imavis.2017.08.009",
-url = "http://www.sciencedirect.com/science/article/pii/S0262885617301257",
-author = "Frodo Kin Sun Chan and Adams Wai Kin Kong",
-keywords = "Soft biometrics",
-keywords = "Biometrics",
-keywords = "Emerging biometrics",
-keywords = "Forensics"
-}
 
 # 7. NTU Tattoo Dataset
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100004.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100005.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100017.jpg)
 
+Number of images: 10000 (5740 tattoo images and 4260 non-tattoo images)
 
+Image type: Color
+
+Please cite the following paper to use the dataset:
+
+Qingyong Xu, S. Ghosh, X. Xu, Yi Huang and A. W. K. Kong, "Tattoo detection based on CNN and remarks on the NIST database," 2016 International Conference on Biometrics (ICB), Halmstad, 2016, pp. 1-7.
+
+
+# 8. How to acquire NTU Dataset
 To acquire NTU Human Back/Chest/Inner Forearm/Inner Thigh/Tattoo datasets, please download and fill up the corresponding agreements, send the signed copy to xpxu@ntu.edu.sg with title "Application for NTU Dataset". A download link will be send back to you once after we receive your signed agreements.
 
 To acquire NTU Internet Image Set v1 and NTU Lower Leg Skin Dataset, please send email to xpxu@ntu.edu.sg with title "Application for NTU Dataset". Please provide the following information in the mail: full name, position, organization, address and your contact email. A download link will be send back to you once after we receive your mail.

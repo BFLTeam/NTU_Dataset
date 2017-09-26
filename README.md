@@ -26,6 +26,30 @@ The datasets consists of the following sub-datasets:
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0009_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0026_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0034_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0036_00_02_02.png)
 
+Session 1:
+Number of images: 100
+Number of subjects: 67 (The left leg images were flipped and considered as right leg images from other subjects)
+Image type: Color
+Session 2:
+Number of images: 668
+Number of subjects: 479 (The left leg images were flipped and considered as right leg images from other subjects)
+Image type: color
+
+Please cite the following paper to use the dataset: (BibTex format)
+@article{CHAN2017,
+title = "A further study of low resolution androgenic hair patterns as a soft biometric trait",
+journal = "Image and Vision Computing",
+year = "2017",
+issn = "0262-8856",
+doi = "https://doi.org/10.1016/j.imavis.2017.08.009",
+url = "http://www.sciencedirect.com/science/article/pii/S0262885617301257",
+author = "Frodo Kin Sun Chan and Adams Wai Kin Kong",
+keywords = "Soft biometrics",
+keywords = "Biometrics",
+keywords = "Emerging biometrics",
+keywords = "Forensics"
+}
+
 # 7. NTU Tattoo Dataset
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100004.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100005.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100017.jpg)

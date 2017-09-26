@@ -59,14 +59,22 @@ Inner Forearm v2 dataset consists of 3 categories: Internet, IR and Standard. Fo
 
 3. Standard: 656 images in ImgSeg_01, 656 images in ImgSeg_02
 
-Image type: jpg
+Image type: png
 
 
 # 5. NTU Human Inner Thigh Skin Dataset v.2
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0006_00_01_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0013_00_01_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0014_00_01_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0031_00_01_01.png)
 
+Inner Thigh v2 dataset consists of 3 categories: Internet, IR and Standard. For each category, there are 2 sessions. The images are orginized as following:
 
+1. Internet: 229 images in ImgSeg_01, 504 images in ImgSeg_02
+
+2. IR: 524 images in ImgSeg_01, 524 images in ImgSeg_02
+
+3. Standard: 524 images in ImgSeg_01, 524 images in ImgSeg_02
+
+Image type: png
 
 # 6. NTU Lower Leg Skin Dataset
 
@@ -78,7 +86,7 @@ Number of images: 100
 
 Number of subjects: 67 (The left leg images were flipped and considered as right leg images from other subjects)
 
-Image type: Color
+Image type: png
 
 
 Session 2:
@@ -87,7 +95,7 @@ Number of images: 668
 
 Number of subjects: 479 (The left leg images were flipped and considered as right leg images from other subjects)
 
-Image type: color
+Image type: png
 
 
 Please cite the following paper to use the dataset:

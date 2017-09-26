@@ -1,7 +1,7 @@
 # NTU_Dataset
 Here we share the NTU datasets to all the researchers who are working on biometrics and forensics field.
 
-The datasets consists of the following sub-datasets:
+The NTU datasets consist of the following sub-datasets:
 # 1. NTU Internet Image Set v1
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/15.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/29.jpg)
@@ -17,17 +17,52 @@ Xiaojie Li and Adams Kong, “A Multi-model Restoration Algorithm for Recovering
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0182_02_02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0184_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0187_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0188_01_01.jpg)
 
+Human back skin dataset contains 699 back skin images collected in Biometrics and Forensics Lab, SCSE, NTU.
+Image number: 699 (52 random pose images and 647 standard pose images)
+Image type: jpg
+
+Please cite the following paper to use the dataset:
+
+1. Nhat Quang Huynh, Xingpeng Xu, Adams Kong and Sathyan Subbiah, “A preliminary report on a full-body imaging system for effectively collecting and processing biometric traits of prisoners”, IEEE Symposium Series on Computational Intelligence, 2014.
+
+2. Arfika Nurhudatiana and Adams Kong, "On Criminal Identification in Color Skin Images Using Skin Marks (RPPVSM) and Fusion with Vein Patterns", IEEE Transactions on Information Forensics and Security, vol. 10, no. 5, pp. 916-931, 2015
+
+
 # 3. NTU Human Chest Skin Dataset
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0174_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0181_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Chest/0191_01_01.jpg)
 
-# 4. NTU Human Inner Forearm Skin Dataset
+Human chest skin dataset contains 434 chest skin images collected in Biometrics and Forensics Lab, SCSE, NTU.
+Image number: 434
+Image type: jpg
+
+Please cite the following paper to use the dataset:
+
+1. Nhat Quang Huynh, Xingpeng Xu, Adams Kong and Sathyan Subbiah, “A preliminary report on a full-body imaging system for effectively collecting and processing biometric traits of prisoners”, IEEE Symposium Series on Computational Intelligence, 2014.
+
+2. Arfika Nurhudatiana and Adams Kong, "On Criminal Identification in Color Skin Images Using Skin Marks (RPPVSM) and Fusion with Vein Patterns", IEEE Transactions on Information Forensics and Security, vol. 10, no. 5, pp. 916-931, 2015
+
+
+# 4. NTU Human Inner Forearm Skin Dataset v.2
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Forearm/seg_AL0013_00_02_04.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Forearm/seg_AL0017_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Forearm/seg_AL0018_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Forearm/seg_AL0020_00_02_02.png)
 
-# 5. NTU Human Inner Thigh Skin Dataset
+Inner Forearm v2 dataset consists of 3 categories: Internet, IR and Standard. For each category, there are 2 sessions. The images are orginized as following:
+
+1. Internet: 213 images in ImgSeg_01, 640 images in ImgSeg_02
+
+2. IR: 656 images in ImgSeg_01, 656 images in ImgSeg_02
+
+3. Standard: 656 images in ImgSeg_01, 656 images in ImgSeg_02
+
+Image type: jpg
+
+
+# 5. NTU Human Inner Thigh Skin Dataset v.2
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0006_00_01_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0013_00_01_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0014_00_01_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Inner%20Thigh/seg_TL0031_00_01_01.png)
+
+
 
 # 6. NTU Lower Leg Skin Dataset
 

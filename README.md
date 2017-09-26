@@ -38,6 +38,8 @@ Image type: color
 
 Please cite the following paper to use the dataset: (BibTex format)
 
+Frodo Kin Sun Chan, Adams Wai Kin Kong, "A further study of low resolution androgenic hair patterns as a soft biometric trait", In Image and Vision Computing, 2017, ISSN 0262-8856
+
 @article{CHAN2017,
 title = "A further study of low resolution androgenic hair patterns as a soft biometric trait",
 journal = "Image and Vision Computing",

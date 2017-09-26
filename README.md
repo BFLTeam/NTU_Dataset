@@ -6,6 +6,13 @@ The datasets consists of the following sub-datasets:
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/15.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Internet%20Images/29.jpg)
 
+NTUIIS contains two parts: NTUIIS_1 and NTUIIS_2. Images in NTUIIS_1 were collected for visual effect evaluation. To generate original (uncompressed) images for comparisons, they were resized to remove the compression artifacts and referred to as references. Images were further downscaled to a low resolution so that blood vessels were clear in the original images and JPEG compression artifacts were observable in the compressed images with the compression factors of 50 and 75. There are 44 images and 40 images in NTUIIS_1 for testing JPEG compression factors of 50 and 75, respectively. Images in NTUIIS_2 were collected for objective evaluation based on blood vessel matching. For each image in NTUIIS_2, there is one corresponding image from the same body part of the same subject. The forearms were extracted and formed two datasets: a left forearm dataset and a right forearm dataset. Their sizes are 156 and 162 images from 78 and 81 subjects respectively. Their quality factors range from 50 to 90. 
+
+Please cite the following paper to use the NTU IIS dataset:
+
+Xiaojie Li and Adams Kong, “A Multi-model Restoration Algorithm for Recovering Blood Vessels in Skin Images”, Image and Vision Computing, vol. 61, pp. 40-53, 2017
+
+
 # 2. NTU Human Back Skin Dataset
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0182_02_02.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0184_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0187_01_01.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Back/0188_01_01.jpg)

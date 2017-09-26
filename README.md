@@ -27,14 +27,22 @@ The datasets consists of the following sub-datasets:
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0009_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0026_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0034_00_02_01.png) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Lower%20Legs/seg_YL0036_00_02_02.png)
 
 Session 1:
+
 Number of images: 100
+
 Number of subjects: 67 (The left leg images were flipped and considered as right leg images from other subjects)
+
 Image type: Color
 
+
 Session 2:
+
 Number of images: 668
+
 Number of subjects: 479 (The left leg images were flipped and considered as right leg images from other subjects)
+
 Image type: color
+
 
 Please cite the following paper to use the dataset: (BibTex format)
 

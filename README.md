@@ -30,12 +30,14 @@ Session 1:
 Number of images: 100
 Number of subjects: 67 (The left leg images were flipped and considered as right leg images from other subjects)
 Image type: Color
+
 Session 2:
 Number of images: 668
 Number of subjects: 479 (The left leg images were flipped and considered as right leg images from other subjects)
 Image type: color
 
 Please cite the following paper to use the dataset: (BibTex format)
+
 @article{CHAN2017,
 title = "A further study of low resolution androgenic hair patterns as a soft biometric trait",
 journal = "Image and Vision Computing",

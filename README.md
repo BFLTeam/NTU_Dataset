@@ -60,6 +60,8 @@ Frodo Kin Sun Chan, Adams Wai Kin Kong, "A further study of low resolution andro
 
 ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100004.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100005.jpg) ![alt text](https://github.com/BFLTeam/NTU_Dataset/blob/master/Sample%20Images/Tattoo/100017.jpg)
 
+All the images in NTU Tattoo Dataset are collected from Flickr. The images were taken from diverse viewpoints, poses and environments with complex backgrounds, including indoor and outdoor. The raw image sizes range from 72 by 96 pixels to 500 by 500 pixels.
+
 Number of images: 10000 (5740 tattoo images and 4260 non-tattoo images)
 
 Image type: Color

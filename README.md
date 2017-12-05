@@ -1,4 +1,4 @@
-# NTU_Dataset
+# NTU Dataset
 Here we share the NTU datasets to all the researchers who are working on biometrics and forensics field.
 
 The NTU datasets consist of the following sub-datasets:
@@ -119,6 +119,4 @@ Qingyong Xu, S. Ghosh, X. Xu, Yi Huang and A. W. K. Kong, "Tattoo detection base
 
 
 # 8. How to acquire NTU Dataset
-To acquire NTU Human Back/Chest/Inner Forearm/Inner Thigh/Tattoo datasets, please download and fill up the corresponding agreements, send the signed copy to xpxu@ntu.edu.sg with title "Application for NTU Dataset". A download link will be send back to you once after we receive your signed agreements.
-
-To acquire NTU Internet Image Set v1 and NTU Lower Leg Skin Dataset, please send email to xpxu@ntu.edu.sg with title "Application for NTU Dataset". Please provide the following information in the mail: full name, position, organization, address and your contact email. A download link will be send back to you once after we receive your mail.
+To acquire NTU dataset, please first download the "Data Release Agreement.pdf" file. Open this file using pdf reader. Select the dataset you want to acquire in Section A. Print the agreement and sign on page 2. Scan the signed copy and send back to xpxu@ntu.edu.sg with title "Application for NTU Dataset". A download link to the corresponding dataset will be send to you once after we receive the signed agreement file.

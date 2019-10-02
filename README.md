@@ -127,8 +127,7 @@ To acquire NTU dataset, please first download the "Data Release Agreement.pdf" f
 This database and project site can be found here
 Coming soon
 ## NTU-Nipple-v1 
-This database and project site can be found here
-Coming soon
+This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification)
 ## NTU Palmprints from the Internet (NTU-PI-v1) 
 This database and project site can be found here
 Coming soon

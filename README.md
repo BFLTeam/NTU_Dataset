@@ -125,9 +125,10 @@ To acquire NTU dataset, please first download the "Data Release Agreement.pdf" f
 
 ## NTU-Wrist-Image-Database-v1
 This database and project site can be found here
-
+Coming soon
 ## NTU-Nipple-v1 
 This database and project site can be found here
-
+Coming soon
 ## NTU Palmprints from the Internet (NTU-PI-v1) 
 This database and project site can be found here
+Coming soon

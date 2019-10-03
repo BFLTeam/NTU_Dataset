@@ -124,13 +124,17 @@ To acquire NTU dataset, please first download the "Data Release Agreement.pdf" f
 # 9. More datasets 
 
 ## NTU-Wrist-Image-Database-v1
-This database and project site can be found here
-Coming soon
+This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation)
+
+Please cite the following paper when using this dataset:\
+Wojciech Michal Matkowski, Frodo Kin Sun Chan and Adams Wai Kin Kong. "A Study on Wrist Identification for Forensic Applications." Image and Vision Computing, vol. 88, August 2019, pp 96-112. https://doi.org/10.1016/j.imavis.2019.05.005
+
 ## NTU-Nipple-v1 
 This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification) 
 
 Please cite the following paper when using this dataset:\
 Wojciech Michal Matkowski, Krzysztof Matkowski, Adams Wai Kin Kong and Cory Lloyd Hall. "The Nipple-Areola Complex for Criminal Identification." In International Conference on Biometrics (ICB), June 2019.
+
 ## NTU Palmprints from the Internet (NTU-PI-v1) 
-This database and project site can be found here
+This database and project site are coming soon
 Coming soon

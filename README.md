@@ -127,7 +127,10 @@ To acquire NTU dataset, please first download the "Data Release Agreement.pdf" f
 This database and project site can be found here
 Coming soon
 ## NTU-Nipple-v1 
-This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification)
+This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification) 
+
+Please cite the following paper when using this dataset:\
+Wojciech Michal Matkowski, Krzysztof Matkowski, Adams Wai Kin Kong and Cory Lloyd Hall. "The Nipple-Areola Complex for Criminal Identification." In International Conference on Biometrics (ICB), June 2019.
 ## NTU Palmprints from the Internet (NTU-PI-v1) 
 This database and project site can be found here
 Coming soon

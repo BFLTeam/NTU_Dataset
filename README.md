@@ -127,7 +127,7 @@ To acquire NTU dataset, please first download the "Data Release Agreement.pdf" f
 This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation)
 
 Please cite the following paper when using this dataset:\
-Wojciech Michal Matkowski, Frodo Kin Sun Chan and Adams Wai Kin Kong. "A Study on Wrist Identification for Forensic Applications." Image and Vision Computing, vol. 88, August 2019, pp 96-112. https://doi.org/10.1016/j.imavis.2019.05.005
+Wojciech Michal Matkowski, Frodo Kin Sun Chan and Adams Wai Kin Kong. "A Study on Wrist Identification for Forensic Investigation." Image and Vision Computing, vol. 88, August 2019, pp 96-112. https://doi.org/10.1016/j.imavis.2019.05.005
 
 ## NTU-Nipple-v1 
 This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/The-Nipple-Areola-Complex-for-Criminal-Identification) 

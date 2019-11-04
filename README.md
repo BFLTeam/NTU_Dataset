@@ -136,5 +136,7 @@ Please cite the following paper when using this dataset:\
 Wojciech Michal Matkowski, Krzysztof Matkowski, Adams Wai Kin Kong and Cory Lloyd Hall. "The Nipple-Areola Complex for Criminal Identification." In International Conference on Biometrics (ICB), June 2019.
 
 ## NTU Palmprints from the Internet (NTU-PI-v1) 
-This database and project site are coming soon
-Coming soon
+This database, a correpsonding data release agreement and project site can be found [here](https://github.com/matkowski-voy/Palmprint-Recognition-in-the-Wild)
+
+Please cite the following paper when using this dataset:\
+Wojciech Michal Matkowski, Tingting Chai and Adams Wai Kin Kong. “Palmprint Recognition in Uncontrolled and Uncooperative Environment.” IEEE Transactions on Information Forensics and Security, October 2019, DOI: 10.1109/TIFS.2019.2945183.
